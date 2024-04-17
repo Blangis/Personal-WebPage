@@ -1,0 +1,15 @@
+h1{
+    font-family: "Bungee Spice", sans-serif;
+    text-align: center;
+    background-color: rgb(186, 233, 223);
+    border: 2px solid black;
+}
+
+body{
+    background-color: rgb(241, 231, 245);
+}
+
+p{
+    border-style:dashed;
+    background-color: bisque;
+}
