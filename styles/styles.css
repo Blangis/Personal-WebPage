@@ -1,15 +1,38 @@
 h1{
     font-family: "Bungee Spice", sans-serif;
     text-align: center;
-    background-color: rgb(186, 233, 223);
+    background-color: rgb(228, 233, 186);
     border: 2px solid black;
 }
 
 body{
-    background-color: rgb(241, 231, 245);
+    background-color: rgb(216, 197, 199);
 }
 
-p{
+p#uno{
     border-style:dashed;
     background-color: bisque;
+    font-family: "Epilogue", sans-serif;
+    font-size: 20px;
+    padding: 30px 20px 30px 20px;
+}
+
+p#dos{
+    border-style:dotted;
+    background-color: rgb(250, 234, 204);
+    font-family: "Epilogue", sans-serif;
+    font-size: 20px;
+    padding: 30px 20px 30px 20px;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(173, 107, 107); 
+    color:azure;
+    text-align: center;
+}
+
+#petri{
+    width:150px;
+    height:350px;
 }
