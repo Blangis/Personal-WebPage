@@ -1,1 +1,1 @@
-Mis gustos musicales.
+Acerca de mí.
