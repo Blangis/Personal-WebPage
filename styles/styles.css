@@ -25,6 +25,15 @@ p#dos{
     padding: 30px 20px 30px 20px;
 }
 
+p#tres{
+    border-style:dotted;
+    background-color: rgb(250, 234, 204);
+    font-family: "Epilogue", sans-serif;
+    font-size: 20px;
+    padding: 40px 30px 40px 30px;
+    text-align: justify;
+}
+
 h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color:rgb(173, 107, 107); 
@@ -33,6 +42,12 @@ h2{
 }
 
 #petri{
-    width:150px;
-    height:350px;
+    float:left;
+    width:120px;
+    height:120px;
+    
+}
+
+.container{
+    align-items:flex-end;
 }
